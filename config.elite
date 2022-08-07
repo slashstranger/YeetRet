@@ -1,0 +1,9 @@
+AntiDump:False
+Virtualization:False
+L2F:False
+SymbolRenaming:False
+InvalidMethods:False
+AntiTamper:False
+ControlFlow:False
+StringEncryption:False
+ResourceEncryption:False
