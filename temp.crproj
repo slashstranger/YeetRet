@@ -1,6 +1,1 @@
-<project outputDir="C:\Users\c0der\Desktop\Renamed" baseDir="C:\Users\c0der\Desktop" xmlns="http://confuser.codeplex.com">
-  <rule pattern="true" inherit="false">
-    <protection id="rename" />
-  </rule>
-  <module path="PcaClient Events.exe" />
-</project>
+
